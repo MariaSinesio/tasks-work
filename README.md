@@ -1,3 +1,4 @@
 ## Exercícios em Ruby
 
-Atividades propostas para exercitar minha lógica de programação em Ruby e iniciar no desenvolvimento orientado a testes.
+Atividades propostas para exercitar minha lógica de programação em Ruby, colocando conceitos básicos e particularidades da linguagem em prática.
+
