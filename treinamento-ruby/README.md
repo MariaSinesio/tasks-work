@@ -18,17 +18,18 @@ Siga estes passos para começar a contribuir e aprender:
 
 Primeiro, você precisará ter sua própria cópia deste repositório. Clique no botão **"Fork"** no canto superior direito desta página. Isso criará uma cópia do repositório na sua conta do GitHub.
 
-### 2. Clone o seu fork 📥
+### 2. Clone o repositório 📥
 
-Agora, clone o seu fork para a sua máquina local. Abra o terminal (ou Git Bash) e execute o seguinte comando, substituindo `SEU_USUARIO_DO_GITHUB` pelo seu nome de usuário:
+Agora, clone o repositório para a sua máquina local. Abra o terminal (ou Git Bash) e execute o seguinte comando:
 
-`git clone https://github.com/SEU_USUARIO_DO_GITHUB/treinamento-ruby.git`
+`git clone git@github.com:beep-saude/treinamento-ruby.git`
+
 Em seguida, entre na pasta do projeto:
-`cd ruby-training`
+`cd treinamento-ruby`
 
 ### 3. Crie uma nova branch 🌿
 
-Antes de começar a trabalhar em um exercício, **crie uma nova branch** para a sua solução. Isso mantém o histórico de commits organizado e evita conflitos. Use um nome descritivo para a branch, como `feat/exercicio-01-nome-do-exercicio` ou `fix/exercicio-02-bug-encontrado`.
+Antes de começar a trabalhar em um exercício, **crie uma nova branch** para a sua solução. Isso mantém o histórico de commits organizado e evita conflitos. Use um nome descritivo para a branch, como `feat/exercicio-01-nome-do-exercicio`.
 
 Execute o comando:
 `git checkout -b nome-da-sua-branch`
@@ -56,7 +57,7 @@ Envie sua nova branch e seus commits para o seu fork no GitHub:
 
 Agora que suas alterações estão no seu fork, é hora de enviá-las para o repositório principal.
 
-1.  Vá para a página do seu fork no GitHub.
+1.  Vá para a página do projeto no GitHub.
 2.  Você verá um botão **"Compare & pull request"** ou uma mensagem sugerindo que você abra um Pull Request da sua branch recém-enviada.
 3.  Clique nesse botão.
 4.  Dê um **título claro** ao seu Pull Request (ex: "Solução para Exercício 01: Soma de dois números").
